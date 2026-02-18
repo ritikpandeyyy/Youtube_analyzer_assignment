@@ -20,3 +20,6 @@ Engagement Formula:
 Notes:
 Only public data is used. API-based approach ensures accuracy
 and compliance with platform policies.
+
+Setup:
+- Create a `.env` file (copy `.env.example`) and set `YOUTUBE_API_KEY`.
