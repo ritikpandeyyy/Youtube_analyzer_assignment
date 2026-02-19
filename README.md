@@ -17,6 +17,9 @@ Metrics Used:
 Engagement Formula:
 (Average Likes + Average Comments) / Subscribers * 100
 
+Output:
+Results are sorted by engagement rate (highest first).
+
 Notes:
 Only public data is used. API-based approach ensures accuracy
 and compliance with platform policies.
