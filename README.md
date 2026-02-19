@@ -13,12 +13,16 @@ Metrics Used:
 - Average Likes (last 10 videos)
 - Average Comments (last 10 videos)
 - Engagement Rate
+- Video Titles (recent videos)
+- Upload Frequency (videos per week)
 
 Engagement Formula:
 (Average Likes + Average Comments) / Subscribers * 100
 
 Output:
 Results are sorted by engagement rate (highest first).
+The output includes video titles from recent videos and upload frequency 
+(videos per week) calculated from the publish dates of recent videos.
 
 Notes:
 Only public data is used. API-based approach ensures accuracy
